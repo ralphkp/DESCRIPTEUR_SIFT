@@ -55,5 +55,9 @@ python3 Detecteur_SIFT.py
 **Note:** le projet utiliser Python3.
 
 
-Vous pouvez maintenant visiter le rep "data" pour voir les resultats
+Vous pouvez maintenant visiter le rep "data" pour voir les resultats.
+
 **WARNING** : nous avons 2 repertoires 'Objets et ImagesRecherche', une seule image à été choisie dans le repertoire Objets pour chercher sa correspondance dans l'ensemble de contenu de l'autre repertoire.
+
+![matches_20221206_003418_small](https://github.com/ralphkp/DESCRIPTEUR_SIFT/assets/83407803/ffa1bf95-518b-42a2-bba5-fb9702211b0d)
+
